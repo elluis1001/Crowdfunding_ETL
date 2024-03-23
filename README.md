@@ -1,5 +1,7 @@
 # Crowdfunding ETL Project
 
+By:  Beauty 
+
 ## Project Overview
 In this project, I performed an ETL (Extract, Transform, Load) process on crowdfunding data. The main objective was to extract and transform data from Excel files into a format suitable for a PostgreSQL database, create a database schema, and load the transformed data into the database.
 
